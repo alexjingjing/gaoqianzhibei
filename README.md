@@ -5,6 +5,12 @@
 # 信息来源
 
 # 工作面试
+## 软件开发工程师
+### Java
+
+### GoLang
+https://golang.design/go-questions/slice/vs-array/
+
 
 # 搞点小应用
 
