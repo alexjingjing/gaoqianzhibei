@@ -1,4 +1,4 @@
-# 不正经的搞钱指北 - A （Naughty ：） guide to making money 
+# 不正经的搞钱指北 - A Naughty ：） guide to making money 
 
 # 投资理财
 
